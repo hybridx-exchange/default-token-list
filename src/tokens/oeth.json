@@ -1,26 +1,26 @@
 [
   {
     "name": "Wrapped OETH",
-    "address": "0xF6A936063AE8A0b7c193c685b992fA29E69828b1",
+    "address": "0x0277962b0177b6F210b55b03781Bb7cf976b3e27",
     "symbol": "WOETH",
     "decimals": 18,
     "chainId": 69,
-    "logoURI": "https://raw.githubusercontent.com/oasis-uniswap/token-list/main/logo/0xF6A936063AE8A0b7c193c685b992fA29E69828b1.png"
+    "logoURI": "https://raw.githubusercontent.com/oasis-uniswap/token-list/main/logo/0x0277962b0177b6F210b55b03781Bb7cf976b3e27.png"
   },
   {
-    "name": "Oasis Uniswap",
-    "address": "0x50a9846f79D79b71b459AE8F15a1b5D76Dd6ddBc",
-    "symbol": "OUNI",
+    "name": "DLT token",
+    "address": "0x528d4D52c3F70533E8FbA55F3461B1d67Ac8D129",
+    "symbol": "DLT",
     "decimals": 18,
     "chainId": 69,
-    "logoURI": "https://raw.githubusercontent.com/oasis-uniswap/token-list/main/logo/0x50a9846f79D79b71b459AE8F15a1b5D76Dd6ddBc.png"
+    "logoURI": "https://raw.githubusercontent.com/oasis-uniswap/token-list/main/logo/0x528d4D52c3F70533E8FbA55F3461B1d67Ac8D129.png"
   },
   {
-    "name": "Oasis USDT",
-    "address": "0xE2E343b5ead6C65EDBb213719658b2f867626939",
-    "symbol": "OUSDT",
+    "name": "Oasis USD",
+    "address": "0x7ad7F515E61107343B69F9FF2EDEBC3f50e187ab",
+    "symbol": "OUSD",
     "decimals": 6,
     "chainId": 69,
-    "logoURI": "https://raw.githubusercontent.com/oasis-uniswap/token-list/main/logo/0xE2E343b5ead6C65EDBb213719658b2f867626939.png"
+    "logoURI": "https://raw.githubusercontent.com/oasis-uniswap/token-list/main/logo/0x7ad7F515E61107343B69F9FF2EDEBC3f50e187ab.png"
   }
 ]
