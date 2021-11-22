@@ -23,7 +23,7 @@ guarantee that we will review your request to add the token to the default list.
   heroku login
   mkdir oasis-default-token-list && cd oasis-default-token-list
   git init
-  heroku git:remote -a oasis-default-token-list
+  heroku git:remote -a default-token-list
 
   # copy your project file to here for deploy
   git add .
