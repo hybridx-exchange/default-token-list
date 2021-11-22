@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Wrapped ROSE",
+    "address": "0x0006D7a9bA2F626Fd78643A73aDf597ad4423AD8",
+    "symbol": "WROSE",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/main/logo/0x0006D7a9bA2F626Fd78643A73aDf597ad4423AD8.png"
+  }
+]
