@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000
 
 http.createServer((req,res)=>{
     //data.json为自定义的json文件
-    fs.readFile('build/uniswap-default.tokenlist.json',(err, data)=>{
+    fs.readFile('build/emerald-default.tokenlist.json',(err, data)=>{
         //必须添加这些头部信息，允许跨域请求
         res.writeHead(200,{
             "Access-Control-Allow-Origin": "*",
