@@ -1,12 +1,11 @@
 const { version } = require("../package.json");
 const emerald_mainnet = require("./tokens/emerald-mainnet.json");
 const emerald_testnet = require("./tokens/emerald-testnet.json");
-const oeth = require("./tokens/oeth.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Oasis Uniswap List",
+    name: "Emerald Token List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -16,7 +15,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["uniswap", "default"],
-    tokens: [...emerald_mainnet, ...emerald_testnet, ...oeth]
+    tokens: [...emerald_mainnet, ...emerald_testnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
