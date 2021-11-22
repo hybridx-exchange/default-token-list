@@ -1,5 +1,5 @@
 {
-  "name": "default-token-list",
+  "name": "emerald-default-token-list",
   "version": "2.0.2",
   "description": "◦ The Oasis Uniswap Default token list",
   "main": "build/emerald-default.tokenlist.json",
