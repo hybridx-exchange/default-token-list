@@ -11,7 +11,7 @@
     "name": "Oasis USD",
     "address": "0x90A6549116d61b205E13AE2992C783ffe40e22b9",
     "symbol": "OUSD",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 42261,
     "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/main/logo/0x90A6549116d61b205E13AE2992C783ffe40e22b9.png"
   }
