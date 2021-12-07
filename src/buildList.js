@@ -5,7 +5,7 @@ const emerald_testnet = require("./tokens/emerald-testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Emerald Token List",
+    name: "HybridX token List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -13,8 +13,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "default"],
+    logoURI: "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/icon.png",
+    keywords: ["hybridx", "default"],
     tokens: [...emerald_mainnet, ...emerald_testnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

@@ -1,10 +1,10 @@
 [
   {
     "name": "Wrapped ROSE",
-    "address": "0x0006D7a9bA2F626Fd78643A73aDf597ad4423AD8",
+    "address": "0xb9ab821f7323dB4357Bf71eA66670C01761c3d73",
     "symbol": "WROSE",
     "decimals": 18,
     "chainId": 42262,
-    "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/main/logo/0x0006D7a9bA2F626Fd78643A73aDf597ad4423AD8.png"
+    "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xb9ab821f7323dB4357Bf71eA66670C01761c3d73.png"
   }
 ]

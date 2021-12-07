@@ -1,16 +1,16 @@
 {
-  "name": "emerald-default-token-list",
-  "version": "2.0.2",
-  "description": "◦ The Oasis Uniswap Default token list",
-  "main": "build/emerald-default.tokenlist.json",
+  "name": "@hybridx-exchange/token-list",
+  "version": "0.1.0",
+  "description": "◦ Hybridx exchange token list",
+  "main": "build/hybridx-exchange.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir build && node src/write.js > build/emerald-default.tokenlist.json",
+    "build": "rimraf build && mkdir build && node src/write.js > build/hybridx-exchange.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
     "start": "node server.js"
   },
   "files": [
-    "build/emerald-default.tokenlist.json"
+    "build/hybridx-exchange.tokenlist.json"
   ],
   "repository": {
     "type": "git",
