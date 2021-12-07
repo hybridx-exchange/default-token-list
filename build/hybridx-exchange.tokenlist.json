@@ -1,0 +1,49 @@
+{
+  "name": "HybridX token List",
+  "timestamp": "2021-12-07T13:14:51.629Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/icon.png",
+  "keywords": [
+    "hybridx",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Oasis USD",
+      "address": "0x1a56ED83b3773f662Fe2C471F6a3952432a4CFCd",
+      "symbol": "OUSD",
+      "decimals": 6,
+      "chainId": 42261,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0x1a56ED83b3773f662Fe2C471F6a3952432a4CFCd.png"
+    },
+    {
+      "name": "Wrapped ROSE",
+      "address": "0xb9ab821f7323dB4357Bf71eA66670C01761c3d73",
+      "symbol": "WROSE",
+      "decimals": 18,
+      "chainId": 42261,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xb9ab821f7323dB4357Bf71eA66670C01761c3d73.png"
+    },
+    {
+      "name": "YUZUToken",
+      "address": "0xc524Faeca047F0B2De9ab245014208816Eed4E47",
+      "symbol": "YUZU",
+      "decimals": 18,
+      "chainId": 42261,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xc524Faeca047F0B2De9ab245014208816Eed4E47.svg"
+    },
+    {
+      "name": "Wrapped ROSE",
+      "address": "0xb9ab821f7323dB4357Bf71eA66670C01761c3d73",
+      "symbol": "WROSE",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xb9ab821f7323dB4357Bf71eA66670C01761c3d73.png"
+    }
+  ]
+}
