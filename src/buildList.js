@@ -5,7 +5,7 @@ const emerald_testnet = require("./tokens/emerald-testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "HybridX token List",
+    name: "HybridX token list",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
