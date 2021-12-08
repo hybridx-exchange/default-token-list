@@ -1,6 +1,6 @@
 {
   "name": "@hybridx-exchange/token-list",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "◦ Hybridx exchange token list",
   "main": "build/hybridx-exchange.tokenlist.json",
   "scripts": {
