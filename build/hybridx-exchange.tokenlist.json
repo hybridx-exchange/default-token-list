@@ -1,6 +1,6 @@
 {
   "name": "HybridX token List",
-  "timestamp": "2021-12-07T13:35:10.770Z",
+  "timestamp": "2021-12-08T01:42:27.074Z",
   "version": {
     "major": 0,
     "minor": 1,
@@ -14,12 +14,36 @@
   ],
   "tokens": [
     {
+      "name": "BTC Token",
+      "address": "0x961C7a3f1909243C9af056Fd11EdDa2e18b35C7b",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 42261,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0x961C7a3f1909243C9af056Fd11EdDa2e18b35C7b.png"
+    },
+    {
+      "name": "ETH Token",
+      "address": "0xB38C1c2b5b0963428642eC55a320b429f21E180C",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 42261,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xB38C1c2b5b0963428642eC55a320b429f21E180C.png"
+    },
+    {
       "name": "Oasis USD",
       "address": "0x1a56ED83b3773f662Fe2C471F6a3952432a4CFCd",
       "symbol": "OUSD",
       "decimals": 6,
       "chainId": 42261,
       "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0x1a56ED83b3773f662Fe2C471F6a3952432a4CFCd.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xC584fFD011e16A10fd8329853B9B8DE6E0313AD9",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 42261,
+      "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xC584fFD011e16A10fd8329853B9B8DE6E0313AD9.png"
     },
     {
       "name": "Wrapped ROSE",

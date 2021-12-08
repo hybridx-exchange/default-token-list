@@ -22,5 +22,29 @@
     "decimals": 18,
     "chainId": 42261,
     "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xc524Faeca047F0B2De9ab245014208816Eed4E47.svg"
+  },
+  {
+    "name": "USDT",
+    "address": "0xC584fFD011e16A10fd8329853B9B8DE6E0313AD9",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xC584fFD011e16A10fd8329853B9B8DE6E0313AD9.png"
+  },
+  {
+    "name": "ETH Token",
+    "address": "0xB38C1c2b5b0963428642eC55a320b429f21E180C",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0xB38C1c2b5b0963428642eC55a320b429f21E180C.png"
+  },
+  {
+    "name": "BTC Token",
+    "address": "0x961C7a3f1909243C9af056Fd11EdDa2e18b35C7b",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 42261,
+    "logoURI": "https://raw.githubusercontent.com/hybridx-exchange/default-token-list/hybridx-exchange-v1/logo/0x961C7a3f1909243C9af056Fd11EdDa2e18b35C7b.png"
   }
 ]
